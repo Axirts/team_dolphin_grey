@@ -4,12 +4,10 @@
 
 # **Summary**
 
-## Dataset1 Data Import and Cleaning 
+## Data Import and Cleaning 
 
-
-## Dataset2 Data Import and Cleaning 
-
-## Exploratory Data Analysis
+* "Date_reported" which was in object format was converted to datetime format.
+* Renamed column names
 
 ## Data Visualization
 
@@ -17,7 +15,7 @@
 
 ## Outside Research
 
-Below are few articles that we have referred  :
+Below are few articles that we have referred :
 
 # **Data**
 

@@ -50,6 +50,16 @@ The data was collected from  [WHO Coronavirus (COVID-19) Dashboard](https://covi
 
 ## Data Dictionary
 
+|      Feature      |   Type  |          Dataset         |                                                      Description                                                     |
+|:-----------------:|:-------:|:------------------------:|:--------------------------------------------------------------------------------------------------------------------:|
+|   date_reported   |   Date  | WHO-COVID-19-global-data |                                               Date of reporting to WHO                                               |
+|    country_code   |  String | WHO-COVID-19-global-data |                                               ISO Alpha-2 country code                                               |
+|      country      |  String | WHO-COVID-19-global-data |                                               Country name                                               |
+|     WHO_region    |  String | WHO-COVID-19-global-data |                                                 WHO regional offices                                                 |
+|     new_cases     | Integer | WHO-COVID-19-global-data | New confirmed cases. Calculated by subtracting previous   cumulative case count from current cumulative cases count. |
+|  cumulative_cases | Integer | WHO-COVID-19-global-data |                                  Cumulative confirmed cases reported to WHO to date.                                 |
+|     new_deaths    | Integer | WHO-COVID-19-global-data |     New confirmed deaths. Calculated by subtracting previous   cumulative deaths from current cumulative deaths.     |
+| cumulative_deaths | Integer | WHO-COVID-19-global-data |                                 Cumulative confirmed deaths reported to WHO to date.                                 |
 
 # **Conclusions**
 

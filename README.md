@@ -9,10 +9,14 @@
 ## Data Import and Cleaning 
 
 * "Date_reported" which was in object format was converted to datetime format.
-* Renamed column names
+* Renamed columns
 
 ## Data Visualization
-
+Using Tableau visuals were plotted on :
+ * Confirmed COVID-19 cases by country
+ * Confirmed COVID-19 cases per 100,000 population by country
+ * Confirmed COVID-19 deaths by country
+ * Confimed COVID-19 deaths per 100,000 population by country
 ## Data Modeling
 
 ## Outside Research
